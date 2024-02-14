@@ -1,5 +1,4 @@
 import shutil
-from numpy import require
 from rest_framework import serializers
 from .models import *
 
@@ -29,6 +28,5 @@ class FileListSerializer(serializers.Serializer):
 
         
         self.zip_files(folder.uid)
-
 
         return {'files' : {} , 'folder' : str(folder.uid)}
