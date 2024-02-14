@@ -12,7 +12,7 @@
 ## Installation
 - Clone the repository:
 
-git clone https://github.com/Prasad-Bojja/File-sharing-app/tree/master
+git clone https://github.com/Prasad-Bojja/File-sharing-app
 
 ## Navigate to the project directory:
 
