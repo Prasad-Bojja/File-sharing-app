@@ -30,7 +30,7 @@ git clone https://github.com/Prasad-Bojja/File-sharing-app
 - python manage.py runserver
 
 ## Access the application 
-- Consider adding a brief description of what users can expect to see when they access the application at http://localhost:8000.
+- Consider adding a brief description of what users can expect to see when they access the application at https://prasadbojja.pythonanywhere.com/
 
 ## Usage
 - File Upload: Navigate to the home page and use the file upload interface to select and upload files.
