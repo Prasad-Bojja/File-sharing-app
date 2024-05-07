@@ -29,9 +29,6 @@ git clone https://github.com/Prasad-Bojja/File-sharing-app
 ## Start the development server:
 - python manage.py runserver
 
-## Access the application 
-- Consider adding a brief description of what users can expect to see when they access the application at https://prasadbojja.pythonanywhere.com/
-
 ## Usage
 - File Upload: Navigate to the home page and use the file upload interface to select and upload files.
 - File Download: Click on the download link to download files shared by others. You can also download multiple files in ZIP format by clicking the "Download Files" button.
